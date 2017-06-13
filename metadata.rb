@@ -1,0 +1,7 @@
+name 'nginx_wrapper'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures nginx_wrapper'
+long_description 'Installs/Configures nginx_wrapper'
+version '0.1.0'
