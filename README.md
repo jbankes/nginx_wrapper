@@ -1,4 +1,5 @@
 # nginx_wrapper
 
-TODO: Enter the cookbook description here.
+A simple wrapper cookbook created to be used for the Liatrio DevOps Bootcamp. 
+
 
